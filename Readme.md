@@ -9,7 +9,7 @@
 
 <br/>
 
-### Originzl Src:
+### Original Src:
 
 - https://github.com/kulkarniankita/discover-coffee-stores
 
@@ -18,8 +18,6 @@
 <br/>
 
 ## Development
-
-<br/>
 
 ### [App1](./docs/DevApp1.md)
 
