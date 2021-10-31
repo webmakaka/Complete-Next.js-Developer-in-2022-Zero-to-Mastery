@@ -12,7 +12,6 @@
 ### Original Src:
 
 - https://github.com/kulkarniankita/discover-coffee-stores
-
 - https://github.com/kulkarniankita/discover-videos
 
 <br/>
