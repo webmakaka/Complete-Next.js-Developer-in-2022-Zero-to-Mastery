@@ -33,7 +33,27 @@ https://meshgradient.com/
 
 <br/>
 
-![Application](/img/pic-p01.png?raw=true)
+![Application](/img/pic-p02.png?raw=true)
+
+<br/>
+
+### 022 Next.js Head Component
+
+<br/>
+
+### 023 Routing in Next.js
+
+<br/>
+
+### 024 Add routing for Coffee Store Page
+
+<br/>
+
+### 025 What is Dynamic Routing
+
+<br/>
+
+![Application](/img/pic-p03.png?raw=true)
 
 <br/>
 
